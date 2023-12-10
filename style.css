@@ -1,0 +1,26 @@
+.add_block{
+    padding: 30px;
+    width: 300px;
+    height: 40px;
+    background-color: antiquewhite;
+    box-shadow: 3px 3px 5px #aaa;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+#item{
+    font-size: 16px;
+}
+#add_btn{
+    font-size: 16px;
+}
+#list{
+    background-color: antiquewhite;
+    width: 300px;
+    padding: 30px;
+    box-shadow: 3px 3px 5px #aaa;
+    border-radius: 10px;
+    font-size: 28px;
+    list-style-type: none;
+}
